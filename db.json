@@ -1,0 +1,50 @@
+{
+    "users": [
+      {
+        "name": "Utkarsh Singhal",
+        "email": "utkarshsinghal369@gmail.com",
+        "password": "utkarsh@123",
+        "id": 1,
+        "expense": [
+          {
+            "Type": "Income",
+            "category": "Salary",
+            "amount": "60000",
+            "date": "2023-06-06"
+          },
+          {
+            "Type": "Income",
+            "category": "Salary",
+            "amount": "90000",
+            "date": "2023-06-06"
+          },
+          {
+            "Type": "Expense",
+            "category": "Housing",
+            "amount": "10000",
+            "date": "2023-06-06"
+          },
+          {
+            "Type": "Expense",
+            "category": "Vehicle & Transport",
+            "amount": "50000",
+            "date": "2023-06-08"
+          },
+          {
+            "Type": "Income",
+            "category": "Gifts",
+            "amount": "1000",
+            "date": "2023-06-05"
+          }
+        ]
+      },
+      {
+        "name": "bhumi Singhal",
+        "email": "bhumisinghal123@gmail.com",
+        "password": "bhumi123",
+        "id": 2,
+        "expense": []
+      }
+    ]
+  }
+  
